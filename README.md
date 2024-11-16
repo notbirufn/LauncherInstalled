@@ -14,5 +14,5 @@ string artifactId = epic.GetArtifactId();
 string appVersion = epic.GetAppVersion();
 string appName = epic.GetAppName();
 
-Console.WriteLine("installLocation -> " + installLocation);
+epic.Show();
 ```
