@@ -3,12 +3,10 @@
 
 ## インスタンスの作成
 
- ```cs
-- ファイルパスを上書きせずにインスタンスを作成
+```cs
 Epic epic = new Epic();
 ```
 
- ```cs
-- ファイルパスを上書きして、インスタンスを作成する
+```cs
 Epic epic = new Epic("C:\\ProgramData\\Epic\\UnrealEngineLauncher\\LauncherInstalled.dat");
 ```
