@@ -16,3 +16,12 @@ string appName = epic.GetAppName();
 
 epic.Show();
 ```
+
+```
+InstallLocation -> C:\Program Files\Epic Games/Fortnite
+NamespaceId -> fn
+ItemId -> 4fe75bbc5a674f4f9b356b5c90567da5
+ArtifactId -> Fortnite
+AppVersion -> ++Fortnite+Release-32.10-CL-37958378-Windows
+AppName -> Fortnite
+```
